@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/miguelrodo/comp24sta5077z",
+  "image": "ghcr.io/miguelrodo/comp24sta5077z-2025",
   "customizations": {
     "vscode": {
       "extensions": [
