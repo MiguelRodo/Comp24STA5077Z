@@ -40,6 +40,26 @@
         "dotfiles.repository": "https://github.com/SATVILab/dotfiles.git",
         "dotfiles.targetPath": "$HOME/.dotfiles"
       }
+    },
+    "codespaces": {
+      "repositories": {
+        "MiguelRodo/Slides24STA5077Z": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "packages": "read",
+            "workflows": "write"
+          }
+        },
+        "MiguelRodo/Eval24STA5077Z": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "packages": "read",
+            "workflows": "write"
+          }
+        }
+      }
     }
   }
 }
