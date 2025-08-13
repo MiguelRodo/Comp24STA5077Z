@@ -58,6 +58,30 @@
             "packages": "read",
             "workflows": "write"
           }
+        },
+        "MiguelRodo/Slides24STA5069Z": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "packages": "read",
+            "workflows": "write"
+          }
+        },
+        "MiguelRodo/DataTidy24STA5069Z": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "packages": "read",
+            "workflows": "write"
+          }
+        },
+        "MiguelRodo/Eval24STA5069Z": {
+          "permissions": {
+            "actions": "write",
+            "contents": "write",
+            "packages": "read",
+            "workflows": "write"
+          }
         }
       }
     }
